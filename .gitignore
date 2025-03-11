@@ -1,2 +1,5 @@
 # do not sync this folder
 no_sync/*
+
+# Gocrypt
+gocrypt
